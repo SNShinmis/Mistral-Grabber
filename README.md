@@ -88,3 +88,8 @@ The MOST powerful stealer (Cookie stealer, Discord token stealer, Roblox stealer
 
 # Educational Purposes
 • Of course, everything in this repository is for eductaional purposes!
+
+# CREDITS
+[⚠️] All of the rights go to Blank-c.
+
+[⚠️] Scripts such as BlankOBF and some implements in the main code belongs to me. You're free to use it but not to remove the credits.
